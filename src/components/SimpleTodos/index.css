@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.background-container {
+  min-height: 100vh;
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  overflow: auto;
+}
+
+.card {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: 600;
+  color: #ff8542;
+}
